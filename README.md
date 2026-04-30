@@ -1,6 +1,6 @@
 # Fastapi_Pydantic_ok
 
-# FastAPI and Pydantic Learning
+# FastAPI and Pydantic Learning.
 
 This repository contains my learning and practice work for FastAPI and Pydantic. It includes basic to intermediate examples focused on building APIs, data validation, and understanding how these tools work together.
 
