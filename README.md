@@ -9,7 +9,7 @@ This repository contains my learning and practice work for FastAPI and Pydantic.
 FastAPI is a modern, high-performance web framework for building APIs with Python.  
 Pydantic is used for data validation and parsing using Python type hints.
 
-This project is created to explore:
+This project is created to explore::
 - API development using FastAPI
 - Data validation using Pydantic models
 - Request and response handling
